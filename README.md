@@ -534,6 +534,6 @@ license text is included in the source and can also be displayed with:
 rustcmd --license
 ```
 
-Copyright © 2026 Exaga - penthux.net
+Copyright © 2026 Exaga - rust.penthux.net
 
 \#EOF\<\*\>
